@@ -4,11 +4,6 @@ This project is a multi-week, multi-hub inventory distribution optimization tool
 
 ---
 
-## 🌍 Live Demo (Optional)
-
-You can run this app locally or deploy it on platforms like Hugging Face Spaces or Streamlit Cloud.
-
----
 
 ## 🚀 Features
 
@@ -78,22 +73,9 @@ You can use the provided `dataset_hub_multiweek.csv` as a reference.
 
 ---
 
-## 🌐 Deploying Online
-
-You can easily deploy this on:
-
-* [Hugging Face Spaces](https://huggingface.co/spaces)
-* [Streamlit Cloud](https://streamlit.io/cloud)
-* [Google Colab](https://colab.research.google.com/)
-
-Want help with deployment? Just ask!
-
----
-
 ## 👨‍💼 Author
 
 **Tanmay Adhikari**
-
 ---
 
 ## 🌟 License
