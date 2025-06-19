@@ -87,7 +87,7 @@ You can use the provided `dataset_hub_multiweek.csv` as a reference.
 
 You can easily deploy this on:
 
-* [Hugging Face Spaces][(https://huggingface.co/spaces/mr-tanmay/Multi-week_Hub_Distribution_Optimizer)]
+* [Hugging Face Spaces](https://huggingface.co/spaces/mr-tanmay/Multi-week_Hub_Distribution_Optimizer)
 
 ## 👨‍💼 Author
 
