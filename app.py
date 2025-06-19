@@ -66,5 +66,4 @@ demo = gr.Interface(
     title="Multi-week Hub Distribution Optimizer"
 )
 
-if __name__ == "__main__":
-    demo.launch()
+demo.launch()
