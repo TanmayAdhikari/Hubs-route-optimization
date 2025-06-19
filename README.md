@@ -92,7 +92,7 @@ this is deployed on:
 ## 👨‍💼 Author
 
 **Tanmay Adhikari**
-[GitHub]((https://github.com/TanmayAdhikari))
+[GitHub](https://github.com/TanmayAdhikari)
 
 ---
 
