@@ -85,13 +85,13 @@ You can use the provided `dataset_hub_multiweek.csv` as a reference.
 
 ## 🌐 Deploying Online
 
-You can easily deploy this on:
+this is deployed on:
 
 * [Hugging Face Spaces](https://huggingface.co/spaces/mr-tanmay/Multi-week_Hub_Distribution_Optimizer)
 
 ## 👨‍💼 Author
 
-**Your Name**
+**Tanmay Adhikari**
 [GitHub]((https://github.com/TanmayAdhikari))
 
 ---
