@@ -1,6 +1,6 @@
 # Multi-week Hub Distribution Optimizer
 
-This project is a multi-week, multi-hub inventory distribution optimization tool built using **PuLP** and **Gradio**. It helps optimize shipment costs and manage unmet demands over multiple weeks using Linear Programming.
+This project is a multi-week, multi-hub inventory distribution optimization tool built using **PuLP** and **Gradio**. It helps optimize shipment costs and manage unmet demands over multiple weeks using Mixed-Integer Linear Programming (MILP) .
 
 ---
 
