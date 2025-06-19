@@ -1,9 +1,14 @@
 # Multi-week Hub Distribution Optimizer
 
-This project is a multi-week, multi-hub inventory distribution optimization tool built using **PuLP** and **Gradio**. It helps optimize shipment costs and manage unmet demands over multiple weeks using Mixed-Integer Linear Programming (MILP) .
+This project is a multi-week, multi-hub inventory distribution optimization tool built using **PuLP** and **Gradio**. It helps optimize shipment costs and manage unmet demands over multiple weeks using Linear Programming.
 
 ---
 
+## 🌍 Live Demo (Optional)
+
+You can run this app locally or deploy it on platforms like Hugging Face Spaces or Streamlit Cloud.
+
+---
 
 ## 🚀 Features
 
@@ -17,6 +22,11 @@ This project is a multi-week, multi-hub inventory distribution optimization tool
 
   * Inventory left at each hub
   * Unmet demand per hub
+* Provides a **cost summary**:
+
+  * Transportation Cost
+  * Unmet Demand Penalty
+  * Total Optimization Cost
 
 ---
 
@@ -73,9 +83,17 @@ You can use the provided `dataset_hub_multiweek.csv` as a reference.
 
 ---
 
+## 🌐 Deploying Online
+
+You can easily deploy this on:
+
+* [Hugging Face Spaces][(https://huggingface.co/spaces/mr-tanmay/Multi-week_Hub_Distribution_Optimizer)]
+
 ## 👨‍💼 Author
 
-**Tanmay Adhikari**
+**Your Name**
+[GitHub]((https://github.com/TanmayAdhikari))
+
 ---
 
 ## 🌟 License
